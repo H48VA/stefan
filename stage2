@@ -3,17 +3,4 @@ Kontrolní bod č. 2
 
 Přesuňte se na souřadnice N 49°10.64005' E 16°36.18638'.
 
-<!DOCTYPE html>
-<html lang="cs">
-<head>
-    <meta charset="UTF-8">
-    <title>Odkaz</title>
-</head>
-<body>
 
-<p>
-    Klikni na <a href="https://www.google.com">zda</a> pro otevření Googlu.
-</p>
-
-</body>
-</html>
